@@ -3,7 +3,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakob-polegek-533707279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakobpolegek@hotmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Technologies I Work With:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="51" alt="react logo" />
   <img width="8" />
