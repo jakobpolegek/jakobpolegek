@@ -25,15 +25,13 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=cs" height="51" alt="csharp logo" />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=podman" height="51" alt="podman logo" />
-  <img width="16" />
   <img src="https://skillicons.dev/icons?i=docker" height="51" alt="docker logo" />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="51" alt="jenkins logo" />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=grafana" height="51" alt="grafana logo" />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=oracle" height="51" alt="oracle logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="51" alt="oracle logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=firebase" height="51" alt="firebase logo" />
   <img width="16" />
