@@ -1,4 +1,5 @@
-<h1 align="center">Hello there!</h1>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakob-polegek-533707279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakobpolegek@hotmail.com) 
@@ -47,9 +48,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jakobpolegek&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jakobpolegek&icon=0&color=0)](https://visitcount.itsvg.in)
