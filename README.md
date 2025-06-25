@@ -15,7 +15,7 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="51" alt="tailwindcss logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="51" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="51" alt="supabase logo" />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="51" alt="express logo"  />
   <img width="16" />
