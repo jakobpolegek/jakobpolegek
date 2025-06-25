@@ -29,6 +29,8 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="51" alt="docker logo"  />
   <img width="16" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="51" alt="jenkins logo" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="51" alt="grafana logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="51" alt="oracle logo"  />
