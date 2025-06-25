@@ -3,7 +3,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakob-polegek-533707279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakobpolegek@hotmail.com) 
 
-## 💻 Technologies I Work With:
+## 💻 Experience With
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="51" alt="react logo" />
   <img width="8" />
@@ -16,6 +16,8 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="51" alt="tailwindcss logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=supabase" height="51" alt="supabase logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="51" alt="supabase logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=express" height="51" alt="express logo" />
   <img width="8" />
