@@ -5,41 +5,41 @@
 
 # 💻 Tech Stack:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="51" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="51" alt="react logo" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="51" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="51" alt="nextjs logo" />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=ts" height="51" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="51" alt="typescript logo" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="51" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="51" alt="javascript logo" />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="51" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="51" alt="tailwindcss logo" />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=supabase" height="51" alt="supabase logo" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="51" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="51" alt="express logo" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="51" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="51" alt="flask logo" />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=py" height="51" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="51" alt="python logo" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="51" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="51" alt="csharp logo" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="51" alt="podman logo"  />
+  <img src="https://skillicons.dev/icons?i=podman" height="51" alt="podman logo" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="51" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="51" alt="docker logo" />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="51" alt="jenkins logo" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="51" alt="grafana logo"  />
+  <img src="https://skillicons.dev/icons?i=grafana" height="51" alt="grafana logo" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="51" alt="oracle logo"  />
+  <img src="https://skillicons.dev/icons?i=oracle" height="51" alt="oracle logo" />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=firebase" height="51" alt="firebase logo" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="51" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="51" alt="postgresql logo" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="51" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="51" alt="linux logo" />
 </div>
 
 # 📊 GitHub Stats:
