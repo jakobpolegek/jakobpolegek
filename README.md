@@ -35,7 +35,7 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=firebase" height="51" alt="firebase logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="51" alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="51" alt="postgresql logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=linux" height="51" alt="linux logo" />
   <img width="8" />
