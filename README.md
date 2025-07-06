@@ -25,8 +25,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=py" height="51" alt="python logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cs" height="51" alt="csharp logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=docker" height="51" alt="docker logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="51" alt="jenkins logo" />
@@ -39,7 +37,9 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=linux" height="51" alt="linux logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="51" alt="oracle logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="51" width="51" alt="oracle logo" />
+  <img width="8" />
+
 </div>
 
 ## 📊 GitHub Stats:
@@ -47,5 +47,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jakobpolegek&theme=shadow_blue&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobpolegek&theme=shadow_blue&layout=pie)
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=jakobpolegek&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
