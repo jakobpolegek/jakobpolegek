@@ -7,8 +7,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="51" alt="react logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="51" alt="nextjs logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=ts" height="51" alt="typescript logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="51" alt="javascript logo" />
@@ -24,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=flask" height="51" alt="flask logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=py" height="51" alt="python logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=java" height="51" alt="java logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=docker" height="51" alt="docker logo" />
   <img width="8" />
